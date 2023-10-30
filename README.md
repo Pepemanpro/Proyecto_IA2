@@ -1,5 +1,5 @@
 # Proyecto_IA2
-![Banner](artbreeder-image.jpg)
+![Banner](Baner.jpeg)
 Proyecto:
 Nuestro trabajo consiste en la localización de nódulos pulmonares por medio de la arquitectura transformer 
 presentada en el paper "Attention is all you need". El propósito es mostrar y ajustar (en medida del tiempo del curso) 
