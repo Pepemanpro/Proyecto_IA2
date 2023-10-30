@@ -40,4 +40,3 @@ Squamous cell lung cancer is responsible for about 30 percent of all non-small
 cell lung cancers, and is generally linked to smoking.
 
 And the last folder is the normal CT-Scan images
-
