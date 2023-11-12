@@ -20,4 +20,4 @@ y 16 sujetos sanos de tres centros de investigación en Argentina y México.
 
 [Dataset_TaoWu_Link](https://fcp-indi.s3.amazonaws.com/data/Projects/INDI/umf_pd/taowu.tar.gz)
 
-[More_Informatio](https://fcon_1000.projects.nitrc.org/indi/retro/parkinsons.html)
+[More_Information](https://fcon_1000.projects.nitrc.org/indi/retro/parkinsons.html)
