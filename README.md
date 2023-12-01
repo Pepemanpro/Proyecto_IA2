@@ -1,4 +1,4 @@
-# Proyecto_IA2: Detección de Parkinson mediante resonancia magnética anatomica
+# Proyecto_IA2: Detección de Parkinson apartir de  resonancia magnética anatomica
 ![Banner](Baner.jpeg)
 
 Autores:
